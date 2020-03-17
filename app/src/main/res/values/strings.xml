@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">logingoogle</string>
+    <string name="not_close_session" />
+    <string name="log_out">Log Out</string>
+    <string name="Salir">Salir</string>
+    <string name="enter_password">Contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="login">Ingresar</string>
+    <string name="enter_email">Email</string>
+</resources>
